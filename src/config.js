@@ -37,7 +37,7 @@ const config = {
 		"mobile": {   //移动端
 			"type": "pic",
 			"datainfo": {
-				"title": "0001",
+				"title": "初音未来",
 				"preview": "/img/wallpaper/static-mobile/0d919dbc23edf299ee596ddd20dd858c.jpg",
 				"url": "/img/wallpaper/static-mobile/0d919dbc23edf299ee596ddd20dd858c.jpg"  //同理，随机移动端壁纸："url":"https://t.mwm.moe/mp"
 			}
@@ -143,7 +143,7 @@ const config = {
 
 	//项目卡片 其中 字段"show"控制初始卡片的text是否展开
 	projectcards: [
-		{ go: "🚀 前往", img: "/img/6db2502d2a09d291019d0fa88cd77ccc.jpg", title: "Project 1", subtitle: "1,000 miles of wonder", text: "水中有明月，碎碎圆圆。", url: "https://leleo.top", show: false },
+		{ go: "🎵 前往", img: "/img/6db2502d2a09d291019d0fa88cd77ccc.jpg", title: "歌单", subtitle: "1,0000 miles of wonder", text: "水中有明月，碎碎圆圆。", url: "https://music.163.com/playlist?id=7591456113&uct2=U2FsdGVkX1/3b4PcN2u2dlpSZMKofqhYkcZFEGIIghI=", show: false },
 		{ go: "🗂️ 前往", img: "/img/6f6c08c06002fffd746e12df0c8d522f.jpg", title: "Project 2", subtitle: "2,000 miles of wonder", text: "凡王之血，必以剑终。", url: "https://leleo.top", show: false },
 		{ go: "📝 前往", img: "/img/77962c15eebd2e05c2abef5a1a64aec7.jpg", title: "Project 3", subtitle: "3,000 miles of wonder", text: "待到春风起，共赴倒悬山。", url: "https://leleo.top", show: false },
 		{ go: "👍 前往", img: "/img/a408d876601821470a8a4f48ad7db934.jpg", title: "Project 4", subtitle: "4,000 miles of wonder", text: "落魄谷中寒风吹，春秋蝉鸣少年归。", url: "https://leleo.top", show: false },
