@@ -54,9 +54,11 @@ const config = {
 	//社交按钮
 	socialPlatformIcons: [
 		{ icon: "mdi-github", link: "https://github.com/Dr-GJP" },
-		{ icon: "mdi-email", link: "mailto:1148435900@qq.com" },
-		{ icon: "mdi-qqchat", link: "https://im.qq.com/1148435900" },
-		{ icon: "mdi-bilibili", link: "https://space.bilibili.com/437294502?spm_id_from=333.1007.0.0" },
+		{icon:"mdi-email",link:"mailto:"},
+        {icon:"mdi-qqchat",link:"https://im.qq.com/"},
+        {icon:"mdi-wechat",link:"https://wx.qq.com/"},
+        {icon:"mdi-youtube",link:"https://www.youtube.com"},
+        {icon:"mdi-facebook",link:"https://www.facebook.com"}
 	],
 
 	//打字机
