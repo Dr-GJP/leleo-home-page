@@ -48,7 +48,7 @@ const config = {
 	//极坐标图数据
 	polarChart: {
 		skills: ['金铲铲', 'Star Rail', 'Arknights', 'ZZZ', 'GenShin', 'ZMD', 'FPS', 'Phira', '燕云'],
-		skillPoints: [85, 78, 88, 90, 78, 85, 65, 82, 78],
+		skillPoints: [85, 78, 88, 90, 78, 85, 20, 82, 78],
 	},
 
 	//社交按钮
