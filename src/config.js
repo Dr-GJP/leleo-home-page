@@ -29,7 +29,7 @@ const config = {
 		"pc": {   //pc端
 			"type": "pic",   //"pic":静态壁纸;"video":动态壁纸
 			"datainfo": {
-				"title": "海洋女孩",
+				"title": "孤独摇滚",
 				"preview": "img/wallpaper/static/1000001941.jpg",
 				"url": "/img/wallpaper/static/1000001941.jpg",     //当然，也可填写网络地址或壁纸api，如随机PC壁纸api："url":"https://t.mwm.moe/pc"
 			},
@@ -38,8 +38,8 @@ const config = {
 			"type": "pic",
 			"datainfo": {
 				"title": "0001",
-				"preview": "/img/wallpaper/static-mobile/0001/image-pre.webp",
-				"url": "/img/wallpaper/static-mobile/0001/image.png"  //同理，随机移动端壁纸："url":"https://t.mwm.moe/mp"
+				"preview": "/img/wallpaper/static-mobile/0d919dbc23edf299ee596ddd20dd858c.jpg",
+				"url": "/img/wallpaper/static-mobile/0d919dbc23edf299ee596ddd20dd858c.jpg"  //同理，随机移动端壁纸："url":"https://t.mwm.moe/mp"
 			}
 		}
 
