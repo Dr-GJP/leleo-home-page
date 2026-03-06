@@ -144,11 +144,11 @@ const config = {
 	//项目卡片 其中 字段"show"控制初始卡片的text是否展开
 	projectcards: [
 		{ go: "🎵 前往", img: "/img/6db2502d2a09d291019d0fa88cd77ccc.jpg", title: "歌单", subtitle: "1,0000 miles of wonder", text: "水中有明月，碎碎圆圆。", url: "https://music.163.com/playlist?id=7591456113&uct2=U2FsdGVkX1/3b4PcN2u2dlpSZMKofqhYkcZFEGIIghI=", show: false },
-		{ go: "🗂️ 前往", img: "/img/6f6c08c06002fffd746e12df0c8d522f.jpg", title: "Project 2", subtitle: "2,000 miles of wonder", text: "凡王之血，必以剑终。", url: "https://leleo.top", show: false },
-		{ go: "📝 前往", img: "/img/77962c15eebd2e05c2abef5a1a64aec7.jpg", title: "Project 3", subtitle: "3,000 miles of wonder", text: "待到春风起，共赴倒悬山。", url: "https://leleo.top", show: false },
-		{ go: "👍 前往", img: "/img/a408d876601821470a8a4f48ad7db934.jpg", title: "Project 4", subtitle: "4,000 miles of wonder", text: "落魄谷中寒风吹，春秋蝉鸣少年归。", url: "https://leleo.top", show: false },
-		{ go: "🗃 前往", img: "/img/e900ee0ca6f5de5f3f74bca2de607313.jpg", title: "Project 5", subtitle: "5,000 miles of wonder", text: "侠之大者，为国为民。", url: "https://leleo.top", show: false },
-		{ go: "🎨 前往", img: "/img/fce65b98e2d3f0b436ea179ce739c4c8.jpg", title: "Project 6", subtitle: "6,000 miles of wonder", text: "言念君子，温其如玉。", url: "https://leleo.top", show: false },
+		{ go: "🗂️ 前往", img: "/img/6f6c08c06002fffd746e12df0c8d522f.jpg", title: "Project 2", subtitle: "2,000 miles of wonder", text: "凡王之血，必以剑终。", url: "", show: false },
+		{ go: "📝 前往", img: "/img/77962c15eebd2e05c2abef5a1a64aec7.jpg", title: "Project 3", subtitle: "3,000 miles of wonder", text: "待到春风起，共赴倒悬山。", url: "", show: false },
+		{ go: "👍 前往", img: "/img/a408d876601821470a8a4f48ad7db934.jpg", title: "Project 4", subtitle: "4,000 miles of wonder", text: "落魄谷中寒风吹，春秋蝉鸣少年归。", url: "", show: false },
+		{ go: "🗃 前往", img: "/img/e900ee0ca6f5de5f3f74bca2de607313.jpg", title: "Project 5", subtitle: "5,000 miles of wonder", text: "侠之大者，为国为民。", url: "", show: false },
+		{ go: "🎨 前往", img: "/img/fce65b98e2d3f0b436ea179ce739c4c8.jpg", title: "Project 6", subtitle: "6,000 miles of wonder", text: "言念君子，温其如玉。", url: "", show: false },
 	],
 
 	statement: ["备案号：XXICP备123456789号", "Copyright © 2026 GJP"],
